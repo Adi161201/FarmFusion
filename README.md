@@ -1,9 +1,5 @@
 # FarmFusion
 
-README.md
-
-# Agriculture Solutions Web Application
-
 ![Farmers Image](https://www.iisd.org/sites/default/files/styles/og_image/public/2020-06/RS2085_food-agriculture-topic.jpg?itok=cM6jCv9Q)
 
 ## Introduction
