@@ -57,5 +57,30 @@ Swiftly identify and combat plant diseases with our advanced ML-based plant dise
 
 ## Demo
 
+https://github.com/Adi161201/FarmFusion/assets/74753818/19556e52-3fff-4343-bbf3-184a006ebcef
+
+
+
+https://github.com/Adi161201/FarmFusion/assets/74753818/5ff688da-cab4-4ca4-bf5f-417c08ac02df
+
+
+https://github.com/Adi161201/FarmFusion/assets/74753818/81d1282a-cffb-44e9-a798-b8cb6f3bb596
+
+
+https://github.com/Adi161201/FarmFusion/assets/74753818/0ad15cb9-79dc-4e48-93fc-9dd30a6d17ec
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
