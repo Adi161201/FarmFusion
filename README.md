@@ -33,14 +33,14 @@ Swiftly identify and combat plant diseases with our advanced ML-based plant dise
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/agriculture-solutions-webapp.git`
+1. Clone the repository: `gh repo clone Adi161201/FarmFusion`
 2. Install the required dependencies: `pip install -r requirements.txt`
 3. Run the application: `python app.py`
 4. Open your web browser and access the application at `http://localhost:5000`
 
 ## Running the Project Locally 🛠️
 - Before following the steps below, ensure that you have [git](https://git-scm.com/download), [Anaconda](https://www.anaconda.com/), or [miniconda](https://docs.conda.io/en/latest/miniconda.html) installed on your system.
-- Clone the project repository using the command: `git clone https://github.com/Gladiator07/Harvestify.git` or download and unzip the code if you prefer.
+- Clone the project repository using the command: `gh repo clone Adi161201/FarmFusion` or download and unzip the code if you prefer.
 - Open Anaconda Prompt in the directory where the project was cloned and run the following commands:
   ```
   conda create -n farmfusion python
