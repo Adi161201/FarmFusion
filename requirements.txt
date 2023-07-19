@@ -1,5 +1,4 @@
 flask
-python_version=="3.8"
 numpy
 pandas
 Pillow
