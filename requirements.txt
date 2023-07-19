@@ -6,3 +6,4 @@ requests
 tensorflow
 torch
 torchvision
+gunicorn
