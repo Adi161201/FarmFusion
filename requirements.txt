@@ -1,5 +1,4 @@
 flask
-gunicorn-21.1.0
 numpy
 pandas
 Pillow
